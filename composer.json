@@ -1,0 +1,13 @@
+{
+	"name" : "kabachello/nativeDroid2",
+	"description" : "nativeDroid2 is a jQueryMobile Template inspired by Material Design",
+	"type" : "library",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Raphael Wildhaber"
+		}
+	],
+	"support" : {
+		"issues" : "https://github.com/wildhaber/nativeDroid2/issues"
+	}
+}
